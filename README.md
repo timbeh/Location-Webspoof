@@ -1,11 +1,6 @@
-# ![pikachu](./pikachu.gif) Pokémon GO - WebSpoof
-> Spoof your iOS device GPS location for Pokémon Go
+# Location - WebSpoof
+> Spoof your iOS device GPS location from your Mac
 >
-> Don't forget to star the project for frequent updates 🙏
-
-**NOT SAFE TO USE ANYMORE** 😢
-
-See: https://github.com/iam4x/pokemongo-webspoof/issues/451
 
 ![Example](./example.gif)
 
